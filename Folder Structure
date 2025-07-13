@@ -1,0 +1,8 @@
+.
+├── app_upgraded.py             # Main Streamlit application
+├── data/
+│   └── expenses.db             # SQLite database (auto-created)
+├── model/
+│   └── category_predictor.pkl  # Trained ML model
+├── requirements.txt
+└── README.md

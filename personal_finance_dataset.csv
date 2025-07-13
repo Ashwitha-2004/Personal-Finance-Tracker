@@ -1,0 +1,151 @@
+date,amount,description,category,mood,payment_mode
+2025-06-02,1788.06,Udemy,Education,🙂,UPI
+2025-05-17,2412.44,Local Mall,Shopping,😞,UPI
+2025-04-12,563.71,Starbucks,Food & Beverage,😐,Credit
+2025-06-03,3122.39,Magazine subscription,Subscriptions,😞,Cash
+2025-04-17,4930.72,Udemy,Education,🙂,Debit
+2025-05-27,3080.96,Myntra,Shopping,😐,UPI
+2025-05-27,4192.22,Charity,Miscellaneous,😞,Debit
+2025-06-09,2792.9,Metro,Travel,😞,Credit
+2025-05-26,3307.44,Gym,Subscriptions,🙂,Net Banking
+2025-05-14,3160.84,Pharmacy,Health,🙂,Credit
+2025-06-07,3388.8,Ola,Travel,😐,Credit
+2025-05-26,4097.49,Gym,Subscriptions,🙂,Credit
+2025-06-01,3152.68,Zara,Shopping,😐,Cash
+2025-05-07,1777.98,Phone bill,Rent & Bills,🙂,Cash
+2025-06-10,725.67,Netflix,Subscriptions,😐,Cash
+2025-04-10,1731.18,Local Mall,Shopping,😐,Debit
+2025-04-25,3782.17,Pharmacy,Health,😞,UPI
+2025-06-20,1373.09,Fuel station,Travel,🙂,UPI
+2025-04-06,1200.47,YouTube Premium,Entertainment,🙂,UPI
+2025-05-21,279.26,Netflix,Subscriptions,🙂,Cash
+2025-03-30,1773.46,Rent payment,Rent & Bills,🙂,Credit
+2025-05-03,2168.21,Flipkart,Shopping,😞,Net Banking
+2025-04-09,1492.28,Coursera,Education,😐,Net Banking
+2025-04-20,3135.61,Doctor visit,Health,😞,Debit
+2025-04-27,4760.77,Zara,Shopping,😐,Debit
+2025-05-29,2919.72,Gift shop,Miscellaneous,😞,Cash
+2025-06-06,2989.26,Stationery,Miscellaneous,😞,Debit
+2025-06-05,3153.16,Online course,Education,😐,Net Banking
+2025-06-11,3772.9,Flipkart,Shopping,🙂,Credit
+2025-05-15,3159.69,KFC,Food & Beverage,😐,Net Banking
+2025-04-11,2903.92,Gift shop,Miscellaneous,🙂,Net Banking
+2025-06-18,2729.64,Pizza Hut,Food & Beverage,😐,UPI
+2025-06-07,3531.04,Phone bill,Rent & Bills,😞,Cash
+2025-05-19,993.54,College fees,Education,😞,Net Banking
+2025-06-09,3862.98,Bookstore,Education,😐,Cash
+2025-06-04,2823.54,Metro,Travel,😞,UPI
+2025-04-05,1802.91,KFC,Food & Beverage,😞,Credit
+2025-06-14,892.05,Pizza Hut,Food & Beverage,😞,Net Banking
+2025-03-30,4750.93,Flight ticket,Travel,😞,UPI
+2025-04-10,2236.08,Online course,Education,😐,Credit
+2025-05-06,3249.94,Amazon,Shopping,🙂,Credit
+2025-04-27,3331.91,Subway,Food & Beverage,😐,UPI
+2025-06-23,901.41,Flipkart,Shopping,😞,Cash
+2025-06-16,4114.45,Doctor visit,Health,😞,Cash
+2025-04-24,1129.75,Charity,Miscellaneous,😐,Debit
+2025-06-22,3807.2,Prime,Subscriptions,🙂,Net Banking
+2025-04-17,2361.45,Magazine subscription,Subscriptions,😞,Credit
+2025-03-29,549.89,Train ticket,Travel,😞,UPI
+2025-06-15,4229.44,Pharmacy,Health,🙂,Cash
+2025-04-17,1920.8,Online course,Education,🙂,Credit
+2025-05-10,4346.01,Movie ticket,Entertainment,😐,Credit
+2025-04-06,2833.82,YouTube Premium,Entertainment,😞,Debit
+2025-04-13,457.71,Water bill,Rent & Bills,🙂,Debit
+2025-05-13,783.7,Gym,Subscriptions,😐,UPI
+2025-05-11,4301.69,Uber,Travel,😞,UPI
+2025-06-08,3756.38,Gift shop,Miscellaneous,😐,Cash
+2025-04-10,3196.8,Uber,Travel,😐,Net Banking
+2025-04-24,4070.99,Phone bill,Rent & Bills,🙂,Credit
+2025-04-07,2136.47,Myntra,Shopping,😐,Net Banking
+2025-05-20,1347.25,Uber,Travel,😞,Cash
+2025-05-22,4967.19,Zara,Shopping,🙂,Cash
+2025-04-18,2818.74,Phone bill,Rent & Bills,🙂,Net Banking
+2025-06-03,3009.18,Flipkart,Shopping,😐,UPI
+2025-04-07,3048.66,Spotify,Subscriptions,😐,Net Banking
+2025-04-01,4030.53,Netflix,Entertainment,🙂,Net Banking
+2025-05-01,2425.02,H&M,Shopping,🙂,UPI
+2025-04-26,1947.95,Netflix,Entertainment,🙂,Cash
+2025-06-15,1138.36,Flight ticket,Travel,🙂,UPI
+2025-04-26,232.98,Pharmacy,Health,😐,Cash
+2025-06-21,1246.14,Doctor visit,Health,😞,Cash
+2025-04-10,1211.46,Donation,Miscellaneous,🙂,Cash
+2025-06-04,2342.84,Magazine subscription,Subscriptions,😞,Cash
+2025-05-28,4926.22,Gift shop,Miscellaneous,😐,Debit
+2025-05-20,3991.27,Gaming,Entertainment,🙂,Cash
+2025-06-19,1882.75,Train ticket,Travel,🙂,UPI
+2025-06-04,1465.07,Spotify,Entertainment,😐,Cash
+2025-03-29,1329.21,Flipkart,Shopping,😐,Credit
+2025-05-10,349.27,Domino's,Food & Beverage,😞,Net Banking
+2025-05-05,3870.51,Flipkart,Shopping,🙂,Debit
+2025-04-18,2965.52,Udemy,Education,😐,Net Banking
+2025-04-14,1468.0,Internet,Rent & Bills,🙂,Credit
+2025-05-05,2480.72,Hospital bill,Health,🙂,Cash
+2025-05-10,4452.23,Flipkart,Shopping,🙂,UPI
+2025-05-25,2074.4,Electricity bill,Rent & Bills,🙂,Cash
+2025-05-10,2609.54,Doctor visit,Health,😐,Cash
+2025-05-10,1770.2,Spotify,Entertainment,🙂,Cash
+2025-05-13,841.45,Fuel station,Travel,😐,Net Banking
+2025-04-26,4459.51,Doctor visit,Health,🙂,Debit
+2025-06-16,1942.87,Starbucks,Food & Beverage,🙂,Net Banking
+2025-04-09,3296.85,Amazon,Shopping,😞,Credit
+2025-04-20,1751.3,Charity,Miscellaneous,😐,Debit
+2025-05-31,2208.65,Uber,Travel,🙂,UPI
+2025-04-17,3715.31,Phone bill,Rent & Bills,🙂,UPI
+2025-05-22,4343.98,Stationery,Miscellaneous,🙂,UPI
+2025-04-28,376.84,College fees,Education,🙂,Credit
+2025-04-30,1776.28,Spotify,Entertainment,😞,Credit
+2025-05-21,4524.12,Water bill,Rent & Bills,😞,Credit
+2025-06-06,1383.91,Movie ticket,Entertainment,😐,UPI
+2025-04-17,519.4,Pizza Hut,Food & Beverage,😞,Cash
+2025-05-24,1685.95,Concert,Entertainment,🙂,Cash
+2025-05-29,1534.27,Online course,Education,🙂,Debit
+2025-05-25,1314.28,Ola,Travel,😐,Cash
+2025-05-11,305.41,Gym,Health,😞,Cash
+2025-05-29,261.05,Cafe Coffee Day,Food & Beverage,🙂,Debit
+2025-05-21,132.32,Water bill,Rent & Bills,🙂,Debit
+2025-04-19,3681.31,Bookstore,Education,😞,Net Banking
+2025-03-29,1338.28,YouTube Premium,Entertainment,😞,UPI
+2025-06-13,2381.07,Supplements,Health,😐,Cash
+2025-05-19,3510.54,Myntra,Shopping,😞,Debit
+2025-05-04,4067.44,Fuel station,Travel,😞,Net Banking
+2025-04-11,3310.68,Coursera,Education,😐,Net Banking
+2025-06-10,4335.79,Rent payment,Rent & Bills,😐,Credit
+2025-05-19,3598.12,Movie ticket,Entertainment,😞,Cash
+2025-06-14,1871.11,Metro,Travel,😞,UPI
+2025-03-28,4083.36,Gym,Subscriptions,🙂,Credit
+2025-03-27,1277.25,Udemy,Education,😐,Credit
+2025-04-17,317.05,Local Mall,Shopping,😐,Cash
+2025-03-30,803.88,H&M,Shopping,🙂,UPI
+2025-05-01,2690.02,Phone bill,Rent & Bills,🙂,Debit
+2025-05-01,1126.53,Domino's,Food & Beverage,😐,Debit
+2025-05-30,472.91,Spotify,Subscriptions,😞,Cash
+2025-04-16,1649.45,Amazon,Shopping,😞,Cash
+2025-03-27,2321.98,Gym,Subscriptions,😐,Debit
+2025-06-10,4647.4,Hospital bill,Health,🙂,UPI
+2025-06-06,2938.96,Hotstar,Subscriptions,🙂,UPI
+2025-06-07,871.53,Udemy,Education,🙂,Net Banking
+2025-06-07,4751.47,Local Mall,Shopping,🙂,Credit
+2025-06-15,2716.94,Spotify,Subscriptions,😞,UPI
+2025-04-25,4067.59,Hotstar,Subscriptions,😞,Credit
+2025-06-15,3942.57,Bookstore,Education,🙂,UPI
+2025-06-17,2945.25,Internet,Rent & Bills,🙂,Cash
+2025-05-13,663.17,Flight ticket,Travel,🙂,Cash
+2025-04-03,1947.34,H&M,Shopping,😞,Debit
+2025-04-30,2243.2,Coursera,Education,😐,Cash
+2025-06-14,1888.56,Udemy,Education,😞,UPI
+2025-04-16,1137.58,Spotify,Entertainment,😞,Net Banking
+2025-05-02,1097.2,Gift shop,Miscellaneous,😞,Net Banking
+2025-04-13,4262.13,Water bill,Rent & Bills,😐,Debit
+2025-06-14,2681.4,Fuel station,Travel,😞,Credit
+2025-05-08,3051.29,Rent payment,Rent & Bills,😐,Net Banking
+2025-04-23,3668.07,Concert,Entertainment,😐,Cash
+2025-04-18,1702.7,Repair service,Miscellaneous,😞,Cash
+2025-04-03,4379.64,H&M,Shopping,🙂,UPI
+2025-05-18,741.15,Train ticket,Travel,😞,Debit
+2025-04-13,3210.88,Uber,Travel,🙂,UPI
+2025-04-30,1430.01,Water bill,Rent & Bills,😞,Credit
+2025-04-12,2551.41,Concert,Entertainment,😐,Debit
+2025-05-09,4390.01,Prime,Subscriptions,🙂,Net Banking
+2025-04-09,1425.13,Pharmacy,Health,😐,UPI
+2025-03-26,1250.35,Donation,Miscellaneous,😞,Net Banking
